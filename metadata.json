@@ -1,0 +1,8 @@
+{
+  "name": "AI Travel Itinerary Generator",
+  "description": "Generate comprehensive, structured 3-day travel itineraries for any city worldwide with tailored schedules, neighborhood spots, and insider tips.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
